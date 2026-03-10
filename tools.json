@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Fanmade_QCGENERATOR",
+    "name": "QC Generator v6.2",
+    "description": "This is an improved and fan-made version of QC Gen. The application includes features such as changing the background color, switching languages, defining bones, and things like VTA and similar tools. This is a fan-made version of QC Gen.",
+    "category": "Tools",
+    "type": "exe",
+    "version": "6.2",
+    "icon": "https://raw.githubusercontent.com/Hiddex184/Fanmade-Qc_GEN/main/icon/q.png",
+    "download": "https://github.com/Hiddex184/Fanmade-Qc_GEN/releases/download/v6.2/Fanmade_QC_GENERATOR.exe",
+    "args": [],
+    "tags": ["source-engine", "modding", "qc"]
+  },
+  {
+    "id": "filmmakergui3_7",
+    "name": "Filmmaker GUI 3.7",
+    "description": "Comprehensive SFM script— fog, skybox, light limit patch, auto lip sync, VMT editor, texture checker, RAM/FPS boost, overlay system & more. 12 languages supported. Runs directly inside Source Filmmaker.",
+    "category": "Scripts",
+    "type": "py",
+    "version": "3.7",
+    "icon": "https://raw.githubusercontent.com/Hiddex184/Filmmaker-Gui-3.7/main/icon/fmg_logo.png",
+    "download": "https://github.com/Hiddex184/Filmmaker-Gui-3.7/releases/download/3.7/filmmakergui3_7.py",
+    "args": [],
+    "tags": ["script Filmmakergui", "source-engine", "sfm", "Filmmaker"]
+  }
+]
